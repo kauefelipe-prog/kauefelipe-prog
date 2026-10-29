@@ -2,7 +2,7 @@
 
 **`🐍 Python Developer | Java & SQL`**
 
-Me chamo Kauê Felipe, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informação na UNIP.   Gosto de desafios e resolver problemas, criar gráficos e analises estatisticas.
+Olá, me chamo Kauê Felipe, atualmente curso Sistemas da Informações, onde desenvolvi um conhecimento prévio sobre programação e outras competências. Sou uma pessoa muito curiosa e analítica, por isso desenvolvi interesse na área de dados, tais coleta, limpeza, análises e visualização dos dados. Hoje é uma das áreas que mais me interesso e estudo. 
 
 
 ---
